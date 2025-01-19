@@ -6,7 +6,7 @@ This project is for personal use only due to copyright restrictions on the sheet
 ## Project Overview
 ![Video Screen Alignment](MusicGen.jpg)
 
-This project provides a Python-based tool for extracting musical score regions from a video, processing them, and exporting them as a single PDF document. The tool is tailored for scenarios where musical scores appear in video recordings, such as piano tutorials or sheet music display videos.
+This project provides a Python-based tool for extracting musical score regions from a video, processing them, and exporting them as a single PDF document. The tool is tailored for scenarios where musical scores appear in video recordings, such as piano tutorials or sheet music display videos. (The regions of the musical score change dynamically.）
 
 ## **Activate the Project**
 
