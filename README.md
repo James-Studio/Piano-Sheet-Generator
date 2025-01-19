@@ -40,23 +40,6 @@ When you're done, deactivate the virtual environment with:
 deactivate
 ```
 
-## Features
-1. **Score Detection and Capture**: Extracts score regions from videos based on Region of Interest (ROI) and visual boundaries.
-2. **Customizable ROI and Parameters**: Supports setting custom ROI, frame gaps, and other parameters for precise control.
-3. **PDF Export**: Combines the captured score images into a single, organized PDF file for easy distribution.
-
-## Prerequisites
-The following Python libraries are required:
-- OpenCV (`cv2`)
-- NumPy
-- FPDF
-- PIL (Pillow)
-
-Install dependencies using pip:
-```bash
-pip install opencv-python numpy fpdf pillow
-```
-
 ## How It Works
 1. **Video Processing**:
    - Load a video file.
