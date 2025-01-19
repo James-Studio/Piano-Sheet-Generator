@@ -1,6 +1,7 @@
 # Piano Sheet Generator
 
-## [Notice]: This project is for personal use only due to copyright restrictions.
+## **!! Copyright !!** 
+This project is for personal use only due to copyright restrictions on the sheet music.
 
 ## Project Overview
 ![Video Screen Alignment](MusicGen.jpg)
