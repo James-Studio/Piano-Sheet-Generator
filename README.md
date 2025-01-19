@@ -1,4 +1,4 @@
-# README
+# Piano Sheet Generator
 
 ## [Notice]: This project is for personal use only due to copyright restrictions.
 
