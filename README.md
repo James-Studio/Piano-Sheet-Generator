@@ -3,7 +3,42 @@
 ## [Notice]: This project is for personal use only due to copyright restrictions.
 
 ## Project Overview
+![Video Screen Alignment](MusicGen.jpg)
+
 This project provides a Python-based tool for extracting musical score regions from a video, processing them, and exporting them as a single PDF document. The tool is tailored for scenarios where musical scores appear in video recordings, such as piano tutorials or sheet music display videos.
+
+## **Activate the Project**
+
+Follow these steps to set up and activate the project environment:
+
+### **1. Create a Python Virtual Environment** (if not already created)
+Run the following command to create a virtual environment named `dev`:
+```bash
+python -m venv dev
+```
+
+### **2. Activate the Virtual Environment**
+- **Windows**:
+  ```bash
+  dev\Scripts\activate
+  ```
+
+- **macOS/Linux**:
+  ```bash
+  source dev/bin/activate
+  ```
+
+### **3. Install Required Libraries**
+Install all necessary dependencies listed in the `requirements.txt` file:
+```bash
+pip install -r requirements.txt
+```
+
+### **4. Deactivate the Virtual Environment**
+When you're done, deactivate the virtual environment with:
+```bash
+deactivate
+```
 
 ## Features
 1. **Score Detection and Capture**: Extracts score regions from videos based on Region of Interest (ROI) and visual boundaries.
